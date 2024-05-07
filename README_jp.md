@@ -30,9 +30,6 @@
 
 ### 参加方法
 
-239 / 5,000
-Translation results
-Translation result
 ライブセッションにはワークショップへの登録が必要です。 登録リンクは [ワークショップ Web サイト](https://sites.google.com/cpc-lab.org/ic-design-ws2-j) にあります。
 
 ## 環境設定
