@@ -1,1 +1,1 @@
-# US_Japan_Semiconductor_Workshop
+# US/Japan Semiconductor Workshop
