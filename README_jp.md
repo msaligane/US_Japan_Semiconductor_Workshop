@@ -1,12 +1,14 @@
-# U.S.-Japan Collaborative Workshop: Accelerating IC Design [Phase II]
+# 最先端集積回路設計に関する 日米連携ワークショップ - フェーズ2
 
-English | [日本語](./README_jp.md)
+[English](./README.md) | 日本語
 
-This repository contains all material needed to participate in the tutorials at the [U.S.-Japan Collaborative Workshop: Accelerating IC Design [Phase II]](https://sites.google.com/cpc-lab.org/ic-design-ws2-e/home). Star or bookmark this repository for future reference.
+---
 
-## Session Details
+このリポジトリには、[最先端集積回路設計に関する 日米連携ワークショップ - フェーズ2](https://sites.google.com/cpc-lab.org/ic-design-ws2-j) のチュートリアルに参加するために必要なすべての資料が含まれています。 今後の参照のために、このリポジトリにスターを付けるかブックマークしてください。
 
-### May 14 (Tue), 2024
+## プログラム情報
+
+### 2024年5月14日(火)
 
 - 10:00 - 10:05 **Opening Remark and Overview of the Workshop**, Mehdi Saligane/Koji Inoue, University of Michigan/Kyushu University
 - 10:05 - 10:10 **Welcome Remarks from the U.S. Consulate in Fukuoka**
@@ -16,7 +18,7 @@ This repository contains all material needed to participate in the tutorials at 
 - [14:15 - 15:45 **ReaLLMASIC: Build your own Lightweight LLM**, Gregory Kielian/Kauna Lei/Shiwei Liu/Mehdi Saligane, Google Research/University of Michigan](./Day%201%20-%201415%20-%20ReaLLMASIC%20-%20Build%20your%20own%20Lightweight%20LLM)
 - 15:45 - 16:00 **Conclusion**, Mehdi Saligane, University of Michigan
 
-### May 15 (Wed), 2024
+### 2024年5月15日(水)
 
 - 10:00 - 10:05 **Opening Remark and Overview of Day-2 Workshop**, Mehdi Saligane/Koji Inoue, University of Michigan/Kyushu University
 - 10:05 - 10:50 **Superconductor Computer Architecture: from Classical to Quantum**, Ilkwon Byun, Kyushu University
@@ -26,15 +28,17 @@ This repository contains all material needed to participate in the tutorials at 
 - [15:05 - 16:00 **Pitfalls of Open-Source Chip Design Verification**, Mitch Bailey, Efabless/ShuhariSystem](./Day%202%20-%201505%20-%20Pitfalls%20of%20Open-Source%20Chip%20Design%20Verification)
 - 16:00 - 16:05 **Conclusion and Overview of the phase-2 workshop activities**, Mehdi Saligane/Koji Inoue, University of Michigan/Kyushu University
 
+### 参加方法
 
-### How to Register
+239 / 5,000
+Translation results
+Translation result
+ライブセッションにはワークショップへの登録が必要です。 登録リンクは [ワークショップ Web サイト](https://sites.google.com/cpc-lab.org/ic-design-ws2-j) にあります。
 
-The live session requires registration to the workshop. The registration link can be found on the [workshop website](https://sites.google.com/cpc-lab.org/ic-design-ws2-e/home). ([日本語](https://sites.google.com/cpc-lab.org/ic-design-ws2-j))
+## 環境設定
 
-## Environment Setup
+詳細なソフトウェア環境セットアップガイドについては、[英語の README.md](./README.md) を参照してください。
 
-- TBD
+## ライセンス
 
-## License
-
-This repository is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
+このリポジトリは Apache License, Version 2.0 でライセンスされています。 ライセンスの全文については [LICENSE](./LICENSE) を参照してください。
