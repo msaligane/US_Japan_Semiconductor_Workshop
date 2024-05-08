@@ -1,9 +1,8 @@
+# Teaching Mixed-Signal Design Using Open-Source Tools
+### Boris Murmann, University of Hawaii
 
-I am planning to talk for about 20-25 minutes and then use the rest of the time for demos.
-
-
-- Please send a Pull Request (PR) with your slides, notebooks, and a README file as soon as possible. 
-
-Draft slides are acceptable, but please include more details in the README regarding what you will be covering if you plan to do a demonstration (e.g., tools to install, useful links, etc.). Your slides will be shared with the translation team.
-- Please share your biography, headshot, and abstract of your talk.
-- We will have a reception at the end of the workshop on the 15th, followed by dinner.
+* The first part of this talk is a 20-minute slide presentation
+* The second part is a 10-minute demonstration using Google Colab
+  * Attendees can try the example in their web browsers
+* The third part is a 10-minute Xschem/Ngspice/Jupyter live demo on the presenter's laptop
+  * Attendees can download the Jupyter notebook files (with subdirectory) to try the code on their machines (assuming a local Jupyter installation)
