@@ -1,0 +1,4 @@
+*.gds
+out.svg
+.DS_Store
+__pycache__/
