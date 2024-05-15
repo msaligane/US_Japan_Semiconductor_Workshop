@@ -1,6 +1,5 @@
 # GLayout - Hierarchical Layout Design Platform
 
-Please check our main repo here: https://github.com/idea-fasoc/OpenFASOC
 ## Background & Motivation
 
 Open source development in the field of electronic design automation (EDA) provides a collaborative foundation for advancing integrated circuit (IC) design methodologies. The OpenFASOC framework has been instrumental in fostering this development, offering tools and templates for digital and analog circuit design.
