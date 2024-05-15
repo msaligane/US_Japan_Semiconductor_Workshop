@@ -1,0 +1,10 @@
+pandas
+klayout
+numpy
+matplotlib
+gdsfactory==7.7.0
+cairosvg
+prettyprinttree
+scikit-learn
+scipy
+seaborn
